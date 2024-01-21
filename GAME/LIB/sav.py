@@ -9,7 +9,7 @@ def aditem(bdic,it,c=1):
   bdic["extras"][it]=bdic["extras"].get(it,0)+c
 def pwd(pw=""):
   while 1:
-   code=pw or input("code:")
+   code=pw or input("Save code:")
    if len(code)<29:
      print("too short:",len(code))
      pw=""

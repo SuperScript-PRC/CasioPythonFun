@@ -1,7 +1,7 @@
 from LIB.lda import loading
-loading("Loading mst..")
+loading("Loading monsters..")
 from LIB.monster import mob
-loading("Loading obj..")
+loading("Loading objects..")
 from LIB.usedj import *
 loading("Loading map..")
 from LIB.mapelem import *
