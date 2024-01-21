@@ -9,3 +9,4 @@ there will be no descriptions in this python files.</b>
 <b>Experiments in: </b> EXPERT
 <b>Games in: </b> GAMES
 <b>Education projects in: </b> LEARN
+<b>Only for Display On Screen: </b> SHOW
