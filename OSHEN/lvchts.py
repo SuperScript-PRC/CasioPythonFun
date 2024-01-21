@@ -1,0 +1,13 @@
+czchi5s=[
+"Nigger","QiQi","KeQing",
+"DiLuKe","TiNaLi",
+"DiXiYa","Qing","WaErTe","Jizi",
+]
+czchi4s=[
+"TingYun","ZaoYou",
+"KaWei","March.7th",
+"DanHeng","KaiYa",
+"Asta","ALan","LinKe",
+"PeiLa","BanNiTe","XiangLin",
+"Asta/[0]YiYangQianXi","XueYi","Natasha"
+]
